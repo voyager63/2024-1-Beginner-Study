@@ -19,3 +19,9 @@ repository는 저장소라는 의미이다. github에서 repository는 원격 �
 
 4. **init, add, commit, push**   
 디렉토리에서 git init을 하면 그 디렉토리 안에 .git 폴더가 생성되며, 디렉토리를 git 저장소로 만드는 명령이다. 그 후 git remote add origin "github의 repository주소"를 입력하면 나의 로컬 저장소와 github의 원격 저장소가 연결된다. 로컬 저장소 안에서 작업을 하고, 관리하고 싶은 작업물을 git add "파일명"을 하면 그 파일은 관리 대상이 된다. git add . 을 하면 그 디렉토리 내의 모든 파일이 한번에 처리된다. git commit을 하면 작업물이 기록되고 로컬 저장소에 저장된다. git commit -m "message"를 통해 원하는 메시지를 남길 수 있다. 마지막으로 git push는 나의 로컬 저장소의 작업물을 원격 저장소에 올리는 명령이다. git push origin main 명령을 통해 나의 작업물이 원격 저장소에 올라가게되고, 남들과 공유가 가능해진다.
+
+### 느낀점
+git과 github를 처음 사용해보니 기능들이 생소하고 익숙하지 않아서 어려웠다. 그래도 수업듣다 보면 git과 github에 대해 더 잘 알게되고 마지막에는 아주 자연스럽게 사용할 수 있을 것이니 힘내서 공부하자!
+
+아래는 자기소개 링크입니다.
+<https://github.com/voyager63/voyager63>
