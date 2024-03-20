@@ -4,16 +4,16 @@
 개발을 위해 기본적으로 알아야 할 github의 기초적인 사용법을 알아보자.
 
 ### 이번주 학습 키워드
-git, github, repository, init, add, commit, push
+**git, github, repository, init, add, commit, push**
 
-1. git
+1. **git**   
 git은 분산형 버전 관리 소프트웨어이다. 개발은 혼자하는 것이 아니라 여러명이 하게 되고, 따라서 개발자들이 함께 코드를 관리할 필요가 있다. 또한 코드가 바뀌었을 때, 협업하는 개발자들 모두가 그 변경사항을 알 필요가 있다. git을 사용하면 파일의 상태를 추적하고 관리하기가 쉬워진다. 또한 각 개발자들은 자신의 로컬 저장소에서 작업하고, 원할 때 다른 개발자들과 공유할 수 있으므로, 여러 명이 함께 작업하는 프로젝트를 할 때 git은 거의 필수적이다.
 
-2. github
+2. **github**   
 github는 파일을 공유할 수 있는 원격 저장소라고 할 수 있다. 개발자들이 프로젝트를 할 때, 코드를 자신들의 개인 로컬 저장소에서 작업을 하고, 그 작업물을 github라는 원격 저장소에 공유함으로써 쉽게 소통하고 협업할 수 있게 된다.
 
-3. repository
+3. **repository**   
 repository는 저장소라는 의미이다. github에서 repository는 원격 저장소이며, repository에 나의 작업물을 다른 사람과 공유할 수 있다.
 
-4. init, add, commit, push
+4. **init, add, commit, push**   
 디렉토리에서 git init을 하면 그 디렉토리 안에 .git 폴더가 생성되며, 디렉토리를 git 저장소로 만드는 명령이다. 그 후 git remote add origin "github의 repository주소"를 입력하면 나의 로컬 저장소와 github의 원격 저장소가 연결된다. 로컬 저장소 안에서 작업을 하고, 관리하고 싶은 작업물을 git add "파일명"을 하면 그 파일은 관리 대상이 된다. git add . 을 하면 그 디렉토리 내의 모든 파일이 한번에 처리된다. git commit을 하면 작업물이 기록되고 로컬 저장소에 저장된다. git commit -m "message"를 통해 원하는 메시지를 남길 수 있다. 마지막으로 git push는 나의 로컬 저장소의 작업물을 원격 저장소에 올리는 명령이다. git push origin main 명령을 통해 나의 작업물이 원격 저장소에 올라가게되고, 남들과 공유가 가능해진다.
