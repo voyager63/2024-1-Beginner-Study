@@ -23,5 +23,5 @@ repository는 저장소라는 의미이다. github에서 repository는 원격 �
 ### 느낀점
 git과 github를 처음 사용해보니 기능들이 생소하고 익숙하지 않아서 어려웠다. 그래도 수업듣다 보면 git과 github에 대해 더 잘 알게되고 마지막에는 아주 자연스럽게 사용할 수 있을 것이니 힘내서 공부하자!
 
-아래는 자기소개 링크입니다.
+아래는 자기소개 링크입니다.   
 <https://github.com/voyager63/voyager63>
