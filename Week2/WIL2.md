@@ -23,5 +23,5 @@ merge는 말 그대로 합치는 것이다. 새로운 branch에서 commit한 것
 ### 느낀점
 오늘도 github의 여러 기능을 학습하였다. 프로젝트 시 협업하면서 사용해야 할 핵심적인 기능이라는 생각이 든다. 아직은 많이 사용해 본 적이 없어서 낯설고 어려운 기능들이지만, 계속 사용하다보면 익숙해질 것이다. 힘내자!
 
-Pull Request 페이지의 링크입니다. 
-https://github.com/voyager63/2024-1-Beginner-Study/pull/4
+Pull Request 페이지의 링크입니다.
+https://github.com/voyager63/2024-1-Beginner-Study/pull/5
